@@ -1,7 +1,7 @@
 # Reporting Examples
 I asked the folks in NICAR-L about stories that they couldn't have written without scraping and got a nice list:
 
-+ Micheal Keller's team at Daily Beast used web scraping to track [presidential candidates' ground games in 2012](http://www.thedailybeast.com/articles/2012/10/19/ground-game-obama-opens-up-big-lead-in-state-headquarters.html). Bonus: They [wrote about the process](http://newsbeastlabs.tumblr.com/post/34109019268/tracking-the-presidential-groundgame-as-the-two) when they were done.
++ Micheal Keller's team at Daily Beast used web scraping to track [presidential candidates' ground games in 2012](http://www.thedailybeast.com/articles/2012/10/19/ground-game-obama-opens-up-big-lead-in-state-headquarters.html). Bonus: They [wrote about the process](http://web.archive.org/web/20130203110512/http://newsbeastlabs.tumblr.com/post/34109019268/tracking-the-presidential-groundgame-as-the-two) when they were done.
 
 + Reporters at The Baltimore Sun scraped Baltimore's finance department website after city officials said it wasn't possible to provide reporters with access to property tax records. Their [series on the unintended consequences of a local tax credit](http://www.baltimoresun.com/business/bs-bz-baltimore-homestead-credits-20111217,0,5608651.story) would not have been possible without that data.   
  
