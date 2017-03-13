@@ -1,6 +1,12 @@
 # Reporting Examples
 I asked the folks in NICAR-L about stories that they couldn't have written without scraping and got a nice list:
 
++ [Doctors & Sex Abuse](http://doctors.ajc.com/about_this_investigation/), Atlanta Journal-Constitution; via @dannguyen: 
+  "At that point, our data journalism team wrote computer programs to "crawl" regulators' websites – a process known as scraping – and obtain board orders. This required building about 50 such programs tailored to agencies across the country. That collected more than 100,000 disciplinary documents."
+
++ [Machine Bias](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm), ProPublica; via @dannguyen: 
+  "Starting with the database of COMPAS scores, we built a profile of each person’s criminal history, both before and after they were scored. We collected public criminal records from the Broward County Clerk’s Office website through April 1, 2016. On average, defendants in our dataset were not incarcerated for 622.87 days (sd: 329.19)."
+
 + Micheal Keller's team at Daily Beast used web scraping to track [presidential candidates' ground games in 2012](http://www.thedailybeast.com/articles/2012/10/19/ground-game-obama-opens-up-big-lead-in-state-headquarters.html). Bonus: They [wrote about the process](http://web.archive.org/web/20130203110512/http://newsbeastlabs.tumblr.com/post/34109019268/tracking-the-presidential-groundgame-as-the-two) when they were done.
 
 + Reporters at The Baltimore Sun scraped Baltimore's finance department website after city officials said it wasn't possible to provide reporters with access to property tax records. Their [series on the unintended consequences of a local tax credit](http://www.baltimoresun.com/business/bs-bz-baltimore-homestead-credits-20111217,0,5608651.story) would not have been possible without that data.   
@@ -37,7 +43,4 @@ I asked the folks in NICAR-L about stories that they couldn't have written witho
 
 + The Supreme Chi-Town Coding Crew isn't exactly a newsroom, but they use Python (specifically Django) to scrape the Cook County Sheriff's Inmate Locator every day and provide that [scraped data as a web API](http://cookcountyjail.recoveredfactory.net). By scraping daily, they have developed a data model that the jail administrators themselves do not have access to (such as a history of charges, court dates, and housing locations for each inmate during their stay in jail or in a jail-related program like electronic monitoring). 
 
-Title: Cook County Jail Inmate data API
-Source: https://github.com/sc3/cookcountyjail
-API: http://cookcountyjail.recoveredfactory.net
-Visualization: http://26thandcalifornia.recoveredfactory.net 
++ Cook County Jail Inmate data API ... [Scraper](https://github.com/sc3/cookcountyjail), [API](http://cookcountyjail.recoveredfactory.net) and a [Visualization](http://26thandcalifornia.recoveredfactory.net)
