@@ -1,3 +1,12 @@
+# To the wiki!
+
+[I do](https://twitter.com/amandabee/status/841328517329510401) take [pull requests](https://help.github.com/articles/about-pull-requests/), but I realize that's a high bar for contributions so I went ahead and migrated this page to the wiki:
+
+### <https://github.com/amandabee/scraping-for-journalists/wiki/Reporting-Examples>
+
+So please! Add to the list!
+
+
 # Reporting Examples
 I asked the folks in NICAR-L about stories that they couldn't have written without scraping and got a nice list:
 
